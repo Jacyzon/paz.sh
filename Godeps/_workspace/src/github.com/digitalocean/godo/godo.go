@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/google/go-querystring/query"
-	headerLink "github.com/tent/http-link-go"
+	"github.com/paz-sh/paz.sh/Godeps/_workspace/src/github.com/google/go-querystring/query"
+	headerLink "github.com/paz-sh/paz.sh/Godeps/_workspace/src/github.com/tent/http-link-go"
 )
 
 const (

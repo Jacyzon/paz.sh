@@ -3,8 +3,8 @@ package digitalocean
 import (
 	"time"
 
-	"github.com/digitalocean/godo"
-	"code.google.com/p/goauth2/oauth"
+	"github.com/paz-sh/paz.sh/Godeps/_workspace/src/github.com/digitalocean/godo"
+	"github.com/paz-sh/paz.sh/Godeps/_workspace/src/code.google.com/p/goauth2/oauth"
 	"github.com/paz-sh/paz.sh/machine/drivers"
 	"github.com/paz-sh/paz.sh/log"
 	// "github.com/paz-sh/paz.sh/ssh"
